@@ -1,5 +1,5 @@
 local AceLocale = LibStub:GetLibrary("AceLocale-3.0");
-local L = AceLocale:NewLocale("BananaBar2", "frFR", true);
+local L = AceLocale:NewLocale("BananaBar2", "frFR", false);
 
 if not L then return end
 
