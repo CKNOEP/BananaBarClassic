@@ -56,7 +56,7 @@ L.symbol_order_hotkey_desc		 = "Set symbol order for autoset symbols by hotkey";
 L.symbol_order_mouse			 = "Définir l'ordre des symboles pour les symboles auto defini par raccourci";
 L.symbol_order_mouse_desc		 = "Définir l'ordre des symboles pour le survol de la souris";
 L.order_symbols_desc		     = "1er symbole utilisé, changez l'ordre ici";
-Visibility settings
+
 -- the submenu where you can find all the settings corresponding to all visual effects
 -- of bananabar. For example "Hide buttons"; "button size"; "show button frames" etc.
 L.design                          = "Paramètres visibles";
